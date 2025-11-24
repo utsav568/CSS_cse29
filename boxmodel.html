@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Box Model</title>
+
+    <style>
+        /* Outer border box */
+        .outer-box {
+            border: 3px solid black;
+            padding: 20px;       /* space between border and blue box */
+            width: 650px;
+            margin: 30px auto;   /* center on page */
+        }
+
+        /* Blue area (middle layer) */
+        .blue-box {
+            background-color: #2249e3; /* blue color */
+            padding: 30px;             /* space between blue box and yellow box */
+        }
+
+        /* Yellow inside box */
+        .yellow-box {
+            background-color: #f2d326; /* yellow color */
+            padding: 25px;
+            text-align: center;
+            font-size: 22px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h2 style="text-align:center;">CSS Box Model</h2>
+
+    <div class="outer-box">
+        <div class="blue-box">
+            <div class="yellow-box">
+                ABES Engg College Ghaziabad
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,13 +1,28 @@
 ol{
     color:rgb(215, 55, 55);
 }
-html{
-    color:rgb(172, 66, 20);
+body{
+    background:black;
 }
 h1{
     color:rgb(22, 162, 55);
 }
 button{
-    color:aqua;
-    background:blanchedalmond
+    color:#78f000;
+    background:blanchedalmond;
+}
+#class1{
+    color:blueviolet;
+}
+#class2{
+    color:magenta;
+}
+#class3{
+    color:blanchedalmond;
+}
+#class4{
+    color:#890f68;
+}
+.class{
+    color:deepskyblue;
 }

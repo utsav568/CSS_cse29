@@ -1,0 +1,32 @@
+div{
+    height: 250px;
+    width: 250px;
+    
+    margin: 40px;
+    padding-left: 28px;
+    padding: 25px;
+    display: inline-block; 
+}
+h1{
+    color:blueviolet;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-decoration:underline;
+}
+.box3{
+    height:200px;
+    width: 200px;
+    background-color: chocolate;
+    display:inline-block
+
+}
+.box7{
+    height:100;
+    width:100;
+    background-color: rgb(20, 126, 131);
+}
+#box6{
+    background-color: brown;
+}

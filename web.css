@@ -1,0 +1,47 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+#navbar{
+    height:60px;
+    background-color:black;
+}
+button{
+    background-color: rgb(161, 197, 30);
+}
+#logo{
+    color:rgb(165, 28, 44);
+    font-size: 25px;
+}
+a{
+    color:white;
+    margin-right: 200px;
+}
+footer{
+    background-color: rgb(153, 21, 32);
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color:aqua;
+}
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border:2px solid black;
+    display:inline-block;
+    margin: 30px;
+    
+}
+#blue{
+    background-color:yellow;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#content{
+    height: 500px;
+    
+}

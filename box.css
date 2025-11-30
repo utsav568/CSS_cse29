@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-size:25px;
+    width:200px;
+    height:50px;
+    border-style:dashed;
+    border-color:aqua;
+    border-width:3px;
+
+}
+
+
+    div{
+    height:200px;
+        width: 200px;
+    background-color:magenta;
+    border-width: 4px;
+    border-style:solid;
+    border-color:rgb(14, 141, 26);
+    text-align: center;
+    font-weight: bold;
+    font-size:26px;
+    text-transform: capitalize;
+}
+p{
+    width:200px;
+    height: 200px;
+    border:2px dotted red;
+    text-transform: capitalize;
+    background-color: aquamarine;
+
+}

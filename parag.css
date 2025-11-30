@@ -1,0 +1,50 @@
+#class{
+    color:#ff0000;
+    background-color: #00ff00;
+}
+#exp{
+    color:aqua;
+    text-decoration: line-through;
+}
+#exp2{
+    color:blue;
+    text-decoration: underline;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+p{
+    color:#ff0000;
+}
+h1 {
+    font-weight: 100;
+    text-decoration: red underline;
+    color:aqua;
+}
+h2{
+    font-weight: 300;
+    text-decoration: blue line-through;
+    color:burlywood;
+}
+h3{
+    font-weight: 800;
+    text-shadow: #1ed31e;
+    color: darkmagenta;
+}
+#two{
+    font-family:Arial, Helvetica, sans-serif;
+}
+#three{
+    font: size 30px;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2px;
+}
+#four{
+    font-weight:bolder;
+    font-size:45px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+
+}

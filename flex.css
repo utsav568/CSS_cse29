@@ -1,0 +1,34 @@
+/* div{
+ diplay:inline;
+} */
+.container{
+  display:flex;
+  flex-direction:row-reverse  ;
+  height:500px;
+  width:1000px;
+  background-color: aquamarine;
+  border:1px solid black;
+  flex-wrap:nowrap;
+  justify-content:space-around;
+  align-items: center;
+  column-gap: 10px;
+  flex-grow: 1;
+}
+.item{
+    height: 100px;
+    width:100px;
+    background-color: brown;
+    border:2px solid black;
+    
+    color:white;
+    text-align: center;
+    align-content: center;
+
+}
+.item2{
+    order:-1;
+    flex-grow: 2;
+    align-self: flex-end;
+    
+    
+}

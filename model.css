@@ -1,0 +1,12 @@
+p{
+    color:#8b86b6;
+}
+body{
+    /* background-color: rgb(128, 12, 12); */
+    background-image: url(https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg );
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-attachment:fixed;
+    background-size: cover;
+    
+}
